@@ -53,9 +53,6 @@
 - 📄 **Resume-Job Match Scanner**  
   Scrapes job listings and uses Gemini AI to check resume alignment for better job targeting.
 
-- 🧪 **Potato Leaf Disease Detection**  
-  96% accuracy using TensorFlow and Flask. Built under AICTE TechSaksham mentorship.
-
 ---
 
 ### 📈 Competitive Programming
@@ -69,9 +66,10 @@
 
 ### 📜 Certifications
 
-- 🔹 ServiceNow Certified System Administrator *(in progress)*  
-- 🔹 AICTE TechSaksham – AI Project Guidance  
-- 🔹 Palo Alto Networks – Cybersecurity Fundamentals
+- ✅ **Complete Web Development** – *Udemy by Hitesh Choudhary Sir*  
+- ✅ **ServiceNow CSA & CAD** – *Certified System Administrator & Application Developer*  
+- ✅ **SQL & JavaScript** – *HackerRank*  
+- ✅ **HTML, CSS, Bootstrap** – *InfySpringboard (Infosys)*
 
 ---
 
